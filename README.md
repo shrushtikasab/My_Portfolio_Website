@@ -10,3 +10,4 @@ IDE : VS CODE
 
 Language : HTML CSS
 
+![image](https://github.com/shrushtikasab/My_Portfolio_Website/assets/137315630/0d2ae8ef-d0ce-4166-be32-8cac45daf0c8)
